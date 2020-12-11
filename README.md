@@ -14,5 +14,22 @@
  </a>	 
 </p>
 
+<br/>
+<br/>
+
+<p align="center"> 
+ <strong>
+  My professional skills	
+ </strong>	  
+</p>
+
+<p align="center"> 	<p align="center"> 
+  <img src="https://devicon.dev/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />	 
+  <img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />	  
+  <img src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-plain.svg" alt="node" width="40" height="40" />
+ <img src="https://devicon.dev/devicon.git/icons/mongodb/mongodb-plain.svg" alt="mongo" width="40" height="40" />
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" />	 	
+</p>
+
 - 🌱 I’m currently learning TypeScript with Node.js
 - 👯 I’m looking to collaborate on: API on Node.js
