@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1 align="center">Hi there. My name is Andrey 👋</h1>
 
-<!--
-**DES-Destry/DES-Destry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">	
+ <a href="https://vk.com/vk.peoples.kirik" target="_blank">	 
+  <img src="https://img.icons8.com/color/48/000000/vk-com.png"/>
+ </a>	 
+  
+ <a href="https://www.linkedin.com/in/andrey-agafonov-dev/" target="_blank">	
+  <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
+ </a>
+  	  
+ <a href="https://twitter.com/DESDestry1" target="_blank">	 
+  <img src="https://img.icons8.com/fluent/48/000000/twitter.png" />	  
+ </a>	 
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning TypeScript with Node.js
+- 👯 I’m looking to collaborate on: API on Node.js
