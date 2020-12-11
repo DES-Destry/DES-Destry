@@ -31,5 +31,17 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" />	 	
 </p>
 
+<br/>
+<br/>
+
+<p align="center">
+ <a href="#" alt="DES-Destry's(Andrey Kirik's) GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=DES-Destry&theme=gruvbox&show_icons=true&include_all_commits=true&hide_border=true&icon_color=00CA47&bg_color=0D3C0D&title_color=00CA47" />
+ </a>
+</p>
+
+<br/>
+<br/>
+
 - 🌱 I’m currently learning TypeScript with Node.js
 - 👯 I’m looking to collaborate on: API on Node.js
