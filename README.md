@@ -1,5 +1,9 @@
 <h1 align="center">Hi there. My name is Andrey 👋</h1>
 
+<h3 align="center">
+  My contacts
+</h3>	 
+
 <p align="center">	
  <a href="https://vk.com/vk.peoples.kirik" target="_blank">	 
   <img src="https://img.icons8.com/color/48/000000/vk-com.png"/>
@@ -63,14 +67,22 @@
 <br/>
 <br/>
 
+<h3 align="center">
+  My GitHub Statistics	
+</h3>	 
+
 <p align="center">
  <a href="#" alt="DES-Destry's(Andrey Kirik's) GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=DES-Destry&theme=gruvbox&show_icons=true&include_all_commits=true&hide_border=true&icon_color=00CA47&bg_color=0D3C0D&title_color=00CA47" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DES-Destry&theme=gruvbox&show_icons=true&include_all_commits=true&hide_border=true" height="250"/>
  </a>
 </p>
 
 <br/>
 <br/>
 
-- 🌱 I’m currently learning TypeScript with Node.js
-- 👯 I’m looking to collaborate on: API on Node.js
+<p align="center">
+ <a href="#" alt="DES-Destry's(Andrey Kirik's) GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DES-Destry&layout=compact&theme=gruvbox&hide_border=true" height="250"/>
+ </a>
+</p>
+
