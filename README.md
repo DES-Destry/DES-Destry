@@ -17,18 +17,47 @@
 <br/>
 <br/>
 
-<p align="center"> 
- <strong>
-  My professional skills	
- </strong>	  
-</p>
+<h3 align="center">
+  My base professional skills	
+</h3>	  
 
-<p align="center"> 	<p align="center"> 
+<p align="center"> 	
+  <img src="https://devicon.dev/devicon.git/icons/google/google-original.svg" alt="google" width="40" height="40" />
   <img src="https://devicon.dev/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />	 
   <img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />	  
   <img src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-plain.svg" alt="node" width="40" height="40" />
- <img src="https://devicon.dev/devicon.git/icons/mongodb/mongodb-plain.svg" alt="mongo" width="40" height="40" />
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" />	 	
+  <img src="https://devicon.dev/devicon.git/icons/mongodb/mongodb-plain.svg" alt="mongo" width="40" height="40" />
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" />
+</p>
+
+
+<h3 align="center">
+  My all professional skills	
+</h3>	
+
+<p>
+ <img alt="Google" src="https://img.shields.io/badge/-Google-4285F4?style=flat&logo=Google&logoColor=white"/>
+ <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-101010?style=flat&logo=JavaScript&logoColor=F7DF1E" />
+ <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-white?style=flat&logo=TypeScript&logoColor=29A0DD" />
+ <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white" />
+ <img alt="Nodemon" src="https://img.shields.io/badge/-Nodemon-76D04B?style=flat&logo=Nodemon&logoColor=white" />
+ <img alt="Docker" src="https://img.shields.io/badge/-Docker-29A0DD?style=flat&logo=Docker&logoColor=white"/>
+ <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat&logo=Heroku&logoColor=white"/>
+ <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
+ <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
+ <img alt="Bitbucket" src="https://img.shields.io/badge/-Bitbucket-0052CC?style=flat&logo=Bitbucket&logoColor=white" />
+ <img alt="npm" src="https://img.shields.io/badge/-npm-CB3837?style=flat&logo=NPM&logoColor=white" />
+ <img alt="NuGet" src="https://img.shields.io/badge/-NuGet-004880?style=flat&logo=NuGet&logoColor=white" />
+ <img alt="JSON" src="https://img.shields.io/badge/-JSON-000000?style=flat&logo=JSON&logoColor=white" />
+ <img alt="jwt" src="https://img.shields.io/badge/-JWT-000000?style=flat&logo=JSON-Web-Tokens&logoColor=white" />
+ <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat&logo=mongodb&logoColor=white" />
+ <img alt="MSSQLServer" src="https://img.shields.io/badge/-MSSQL-CC2927?style=flat&logo=Microsoft-SQL-Server&logoColor=white" />
+ <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-004F6A?style=flat&logo=MySQL&logoColor=white" />
+ <img alt="Windows" src="https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=Windows&logoColor=white" />
+ <img alt="CSharp" src="https://img.shields.io/badge/-C%23-green?style=flat&logo=C-Sharp&logoColor=white" />
+ <img alt="XAML" src="https://img.shields.io/badge/-XAML-0C54C2?style=flat&logo=XAML&logoColor=white" />
+ <img alt="DotNET" src="https://img.shields.io/badge/-.NET-5C2D91?style=flat&logo=.NET&logoColor=white" />
+ <img alt="Xamarin" src="https://img.shields.io/badge/-Xamarin-3498DB?style=flat&logo=Xamarin&logoColor=white" />
 </p>
 
 <br/>
