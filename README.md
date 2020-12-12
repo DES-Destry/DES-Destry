@@ -1,8 +1,8 @@
 <h1 align="center">Hi there. My name is Andrey 👋</h1>
 
-<h3 align="center">
-  My contacts
-</h3>	 
+<h4 align="center">
+  Contacts
+</h4>	 
 
 <p align="center">	
  <a href="https://vk.com/vk.peoples.kirik" target="_blank">	 
@@ -21,9 +21,9 @@
 <br/>
 <br/>
 
-<h3 align="center">
-  My base professional skills	
-</h3>	  
+<h4 align="center">
+  Base professional skills	
+</h4>	  
 
 <p align="center"> 	
   <img src="https://devicon.dev/devicon.git/icons/google/google-original.svg" alt="google" width="40" height="40" />
@@ -35,9 +35,9 @@
 </p>
 
 
-<h3 align="center">
-  My all professional skills	
-</h3>	
+<h4 align="center">
+  Аll professional skills	
+</h4>	
 
 <p>
  <img alt="Google" src="https://img.shields.io/badge/-Google-4285F4?style=flat&logo=Google&logoColor=white"/>
@@ -67,13 +67,13 @@
 <br/>
 <br/>
 
-<h3 align="center">
-  My GitHub Statistics	
-</h3>	 
+<h4 align="center">
+  GitHub Statistics	
+</h4>	 
 
 <p align="center">
  <a href="#" alt="DES-Destry's(Andrey Kirik's) GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=DES-Destry&theme=gruvbox&show_icons=true&include_all_commits=true&hide_border=true" height="250"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DES-Destry&theme=gruvbox&show_icons=true&include_all_commits=true&hide_border=true" height="200"/>
  </a>
 </p>
 
@@ -82,7 +82,7 @@
 
 <p align="center">
  <a href="#" alt="DES-Destry's(Andrey Kirik's) GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DES-Destry&layout=compact&theme=gruvbox&hide_border=true" height="250"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DES-Destry&layout=compact&theme=gruvbox&hide_border=true" height="200"/>
  </a>
 </p>
 
