@@ -82,7 +82,7 @@
 
 <p align="center">
  <a href="#" alt="DES-Destry's(Andrey Kirik's) GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DES-Destry&layout=compact&theme=gruvbox&hide_border=true" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DES-Destry&layout=compact&theme=gruvbox&hide_border=true&langs_count=10" height="230"/>
  </a>
 </p>
 
