@@ -86,3 +86,11 @@
  </a>
 </p>
 
+<br/>
+<br/>
+
+<p align="center">
+ <a href="#" alt="DES-Destry's(Andrey Kirik's) GitHub stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DES-Destry&theme=gruvbox&hide_border=true" height="200"/>
+ </a>
+</p>
