@@ -21,18 +21,18 @@
 <br/>
 <br/>
 
-<h4 align="center">
-  Base professional skills	
-</h4>	  
+<!-- <h4 align="center"> 
+  Base professional skills	 
+ </h4>	 
 
-<p align="center"> 	
+<p align="center"> 
   <img src="https://devicon.dev/devicon.git/icons/google/google-original.svg" alt="google" width="40" height="40" />
-  <img src="https://devicon.dev/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />	 
+  <img src="https://devicon.dev/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /> 
   <img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />	  
-  <img src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-plain.svg" alt="node" width="40" height="40" />
+  <img src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-plain.svg" alt="node" width="40" height="40" /> 
   <img src="https://devicon.dev/devicon.git/icons/mongodb/mongodb-plain.svg" alt="mongo" width="40" height="40" />
   <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" />
-</p>
+</p> -->
 
 
 <h4 align="center">
