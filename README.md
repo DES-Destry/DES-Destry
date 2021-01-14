@@ -54,6 +54,7 @@
  <img alt="NuGet" src="https://img.shields.io/badge/-NuGet-004880?style=flat&logo=NuGet&logoColor=white" />
  <img alt="JSON" src="https://img.shields.io/badge/-JSON-000000?style=flat&logo=JSON&logoColor=white" />
  <img alt="jwt" src="https://img.shields.io/badge/-JWT-000000?style=flat&logo=JSON-Web-Tokens&logoColor=white" />
+ <img alt="jest" src="https://img.shields.io/badge/-Jest-C21325?style=flat&logo=Jest&logoColor=white" />
  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat&logo=mongodb&logoColor=white" />
  <img alt="MSSQLServer" src="https://img.shields.io/badge/-MSSQL-CC2927?style=flat&logo=Microsoft-SQL-Server&logoColor=white" />
  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-004F6A?style=flat&logo=MySQL&logoColor=white" />
