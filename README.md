@@ -48,6 +48,7 @@
  <img alt="DotNET" src="https://img.shields.io/badge/-.NET-5C2D91?style=flat&logo=.NET&logoColor=white" />
  <img alt="Docker" src="https://img.shields.io/badge/-Docker-29A0DD?style=flat&logo=Docker&logoColor=white"/>
  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat&logo=Heroku&logoColor=white"/>
+ <img alt="Swagger" src="https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=Swagger&logoColor=black"/>
  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
  <img alt="Bitbucket" src="https://img.shields.io/badge/-Bitbucket-0052CC?style=flat&logo=Bitbucket&logoColor=white" />
@@ -62,6 +63,7 @@
  <img alt="Windows" src="https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=Windows&logoColor=white" />
  <img alt="XAML" src="https://img.shields.io/badge/-XAML-0C54C2?style=flat&logo=XAML&logoColor=white" />
  <img alt="Xamarin" src="https://img.shields.io/badge/-Xamarin-3498DB?style=flat&logo=Xamarin&logoColor=white" />
+ <img alt="Vue" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white" />
 </p>
 
 <br/>
