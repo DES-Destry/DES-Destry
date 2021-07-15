@@ -21,7 +21,7 @@
 <br/>
 <br/>
 
- <!-- <h4 align="center"> 
+<!--  <h4 align="center"> 
   Base professional skills	 
  </h4>	 
 
@@ -49,6 +49,7 @@
  <img alt="Docker" src="https://img.shields.io/badge/-Docker-29A0DD?style=flat&logo=Docker&logoColor=white"/>
  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat&logo=Heroku&logoColor=white"/>
  <img alt="Swagger" src="https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=Swagger&logoColor=black"/>
+ <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=Postman&logoColor=white"/>
  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
  <img alt="Bitbucket" src="https://img.shields.io/badge/-Bitbucket-0052CC?style=flat&logo=Bitbucket&logoColor=white" />
@@ -59,6 +60,7 @@
  <img alt="jest" src="https://img.shields.io/badge/-Jest-C21325?style=flat&logo=Jest&logoColor=white" />
  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13AA52?style=flat&logo=mongodb&logoColor=white" />
  <img alt="MSSQLServer" src="https://img.shields.io/badge/-MSSQL-CC2927?style=flat&logo=Microsoft-SQL-Server&logoColor=white" />
+ <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white" />
  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-004F6A?style=flat&logo=MySQL&logoColor=white" />
  <img alt="Windows" src="https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=Windows&logoColor=white" />
  <img alt="XAML" src="https://img.shields.io/badge/-XAML-0C54C2?style=flat&logo=XAML&logoColor=white" />
