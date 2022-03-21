@@ -72,11 +72,11 @@
   </tr>
 
   <tr>
-    <td>Operating systems</td>
+    <td>Command lines</td>
     <td>
-      <img alt="Windows" src="https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=Windows&logoColor=white" />
-      <img alt="MacOS" src="https://img.shields.io/badge/-MacOS-000000?style=flat&logo=Apple&logoColor=white" />
-      <img alt="Alpine Linux" src="https://img.shields.io/badge/-Alpine Linux-0D597F?style=flat&logo=Alpine Linux&logoColor=white" />
+      <img alt="cmd" src="https://img.shields.io/badge/-Windows Terminal-4D4D4D?style=flat&logo=Windows Terminal&logoColor=white" />
+      <img alt="zsh" src="https://img.shields.io/badge/-zsh-000000?style=flat&logo=iTerm2&logoColor=white" />
+      <img alt="bash" src="https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=GNU Bash&logoColor=white" />
     </td>
   </tr>
 
