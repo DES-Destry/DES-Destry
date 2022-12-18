@@ -21,6 +21,10 @@
 <br/>
 <br/>
 
+### Programming experience since: Dec, 2018 <br/>
+### Backend developing experience since: Oct, 2020 <br/>
+### First work experience since: May, 2021 <br/>
+
  <!-- <h4 align="center">
   Base professional skills
  </h4>
@@ -85,7 +89,7 @@
     <td>
       <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white" />
       <img alt="DotNETFramework" src="https://img.shields.io/badge/-.NET Framework 4.8-5C2D91?style=flat&logo=.NET&logoColor=white" />
-      <img alt="DotNETCore" src="https://img.shields.io/badge/-.NET Core 6.0-5C2D91?style=flat&logo=.NET&logoColor=white" />
+      <img alt="DotNETCore" src="https://img.shields.io/badge/-.NET 7.0-5C2D91?style=flat&logo=.NET&logoColor=white" />
     </td>
   </tr>
 
@@ -179,7 +183,8 @@
 
 <p align="center">
  <a href="#" alt="DES-Destry's(Andrey Kirik's) GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=DES-Destry&theme=gruvbox&show_icons=true&include_all_commits=true&hide_border=true" height="200"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=DES-Destry&bg_color=252525&text_color=01DD82&icon_color=56E7AB&border_color=56E7AB&title_color=01DD82&show_icons=true&include_all_commits=true" height="200"/> -->
+    <img src="https://github-readme-stats.vercel.app/api?username=DES-Destry&bg_color=266.09deg,80EEC0,00DC82&text_color=FFFFFF&icon_color=FFFFFF&border_color=FFFFFF&title_color=FFFFFF&show_icons=true&include_all_commits=true" height="200"/>
  </a>
 </p>
 
@@ -188,7 +193,7 @@
 
 <p align="center">
  <a href="#" alt="DES-Destry's(Andrey Kirik's) GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DES-Destry&layout=compact&theme=gruvbox&hide_border=true&langs_count=10" height="230"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DES-Destry&layout=compact&bg_color=266.09deg,80EEC0,00DC82&text_color=FFFFFF&icon_color=FFFFFF&border_color=FFFFFF&title_color=FFFFFF&langs_count=10" height="230"/>
  </a>
 </p>
 
@@ -197,6 +202,6 @@
 
 <p align="center">
  <a href="#" alt="DES-Destry's(Andrey Kirik's) GitHub stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DES-Destry&theme=gruvbox&hide_border=true" height="200"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DES-Destry&theme=dark&bg_color=266.09deg,80EEC0,00DC82&text_color=FFFFFF&icon_color=FFFFFF&border_color=FFFFFF&title_color=FFFFFF" height="200"/>
  </a>
 </p>
